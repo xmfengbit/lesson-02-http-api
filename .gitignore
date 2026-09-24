@@ -1,0 +1,14 @@
+# 虚拟环境(很大, 绝不上传)
+.venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# IDE 配置
+.idea/
+.vscode/
+
+# 密钥! 绝不能上传
+*.key
+.env
