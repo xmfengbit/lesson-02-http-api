@@ -118,3 +118,5 @@ data = response.json()                           # 4. 拿数据（转成 Python�
 ---
 > 🎞 配套课件：第二课-HTTP与API.pptx（13 页，带讲稿备注，可逐页自学）
 
+只用于自我学习
+
